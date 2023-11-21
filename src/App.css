@@ -26,6 +26,16 @@
   color: rgb(112, 76, 182);
 }
 
+.link{
+  margin-left: 7rem;
+  background:rgb(172, 187, 187);
+  color: green;
+  height: 2rem;
+  border-radius: 0.5rem;
+  padding: 3px 1rem 0;
+  cursor: pointer;
+}
+
 @keyframes App-logo-float {
   0% {
     transform: translateY(0);
